@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.Title = "Character Replacement";
+            Console.Title = "Character Repleacement App";
+
             Console.WriteLine("Type string for process repleacement\n" +
                 "type chars to be repleaced\n" +
                 "type new chars\n" +

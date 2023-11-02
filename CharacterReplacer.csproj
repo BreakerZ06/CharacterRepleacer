@@ -2,9 +2,15 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net6.0-windows10.0.17763.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>CharacterReplacer.Program</StartupObject>
+    <ApplicationIcon>2730380-animal-character-filthy-fox-inkcontober_112681.ico</ApplicationIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="2730380-animal-character-filthy-fox-inkcontober_112681.ico" />
+  </ItemGroup>
 
 </Project>
