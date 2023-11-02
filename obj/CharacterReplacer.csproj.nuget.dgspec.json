@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\source\\github.com\\Breakerz06\\CharacterReplacer\\CharacterReplacer.csproj": {}
+    "E:\\source\\github.com\\Breakerz06\\CharacterRepleacer\\CharacterReplacer.csproj": {}
   },
   "projects": {
-    "E:\\source\\github.com\\Breakerz06\\CharacterReplacer\\CharacterReplacer.csproj": {
+    "E:\\source\\github.com\\Breakerz06\\CharacterRepleacer\\CharacterReplacer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\source\\github.com\\Breakerz06\\CharacterReplacer\\CharacterReplacer.csproj",
+        "projectUniqueName": "E:\\source\\github.com\\Breakerz06\\CharacterRepleacer\\CharacterReplacer.csproj",
         "projectName": "CharacterReplacer",
-        "projectPath": "E:\\source\\github.com\\Breakerz06\\CharacterReplacer\\CharacterReplacer.csproj",
+        "projectPath": "E:\\source\\github.com\\Breakerz06\\CharacterRepleacer\\CharacterReplacer.csproj",
         "packagesPath": "G:\\.nuget\\packages",
-        "outputPath": "E:\\source\\github.com\\Breakerz06\\CharacterReplacer\\obj\\",
+        "outputPath": "E:\\source\\github.com\\Breakerz06\\CharacterRepleacer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "G:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

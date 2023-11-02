@@ -1,0 +1,14 @@
+E:\source\github.com\Breakerz06\CharacterRepleacer\bin\Debug\net6.0\CharacterReplacer.exe
+E:\source\github.com\Breakerz06\CharacterRepleacer\bin\Debug\net6.0\CharacterReplacer.deps.json
+E:\source\github.com\Breakerz06\CharacterRepleacer\bin\Debug\net6.0\CharacterReplacer.runtimeconfig.json
+E:\source\github.com\Breakerz06\CharacterRepleacer\bin\Debug\net6.0\CharacterReplacer.dll
+E:\source\github.com\Breakerz06\CharacterRepleacer\bin\Debug\net6.0\CharacterReplacer.pdb
+E:\source\github.com\Breakerz06\CharacterRepleacer\obj\Debug\net6.0\CharacterReplacer.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\github.com\Breakerz06\CharacterRepleacer\obj\Debug\net6.0\CharacterReplacer.AssemblyInfoInputs.cache
+E:\source\github.com\Breakerz06\CharacterRepleacer\obj\Debug\net6.0\CharacterReplacer.AssemblyInfo.cs
+E:\source\github.com\Breakerz06\CharacterRepleacer\obj\Debug\net6.0\CharacterReplacer.csproj.CoreCompileInputs.cache
+E:\source\github.com\Breakerz06\CharacterRepleacer\obj\Debug\net6.0\CharacterReplacer.dll
+E:\source\github.com\Breakerz06\CharacterRepleacer\obj\Debug\net6.0\refint\CharacterReplacer.dll
+E:\source\github.com\Breakerz06\CharacterRepleacer\obj\Debug\net6.0\CharacterReplacer.pdb
+E:\source\github.com\Breakerz06\CharacterRepleacer\obj\Debug\net6.0\CharacterReplacer.genruntimeconfig.cache
+E:\source\github.com\Breakerz06\CharacterRepleacer\obj\Debug\net6.0\ref\CharacterReplacer.dll
